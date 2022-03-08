@@ -1,16 +1,16 @@
-# Introduction
+## Introduction
 In this Visual Data Analysis, we examine a dataset from an anonymous company’s Facebook ad campaign.
 The data file can be downloaded from [here](https://www.kaggle.com/loveall/clicks-conversion-tracking). 
 The anonymous company is refered to as `company xyz` in this dataset. 
 The file conversion_data.csv contains 1143 observations in 11 variables.
 
-# Data Wrangling
+## Data Wrangling
 Company xyz had 3 three different ad campaign ids which were in integer format.
 I made a python function to change the integer values to 'campaign A', 'campaign B', and 'campaign C'.
 I also made 4 new columns representing Click Through Rate, Cost Per Mille, Conversion Rate, and Cost Per Total Conversion.
 There were several rows where Cost Per Total Conversion had infinite values, and I filtered them into a sub dataframe.
 
-# Conclusions
+## Conclusions
 * **For company xyz, there is a very high correlation between ad spend, clicks and impressions.**
 * **However, there is a moderate correlation between ad spend and Approved Conversions (targeted people who actually buy products).**
 * **Segmented by age, while people ages 30 - 34 are less likely to click an ad, once they click, they are more likely to buy products from company xyz.**
