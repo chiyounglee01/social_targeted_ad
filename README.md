@@ -17,6 +17,6 @@ There were several rows where Cost Per Total Conversion had infinite values, and
 * **On the contrary, while people ages 45-49 are more likely to click an ad, once they click, they are less likely to buy products**
 * **Segmented by Ad Campaign, campaign A had by far the lowest Cost Per Total Conversion and Cost Per Approved Conversion.**
 * **Segmented by Gender, Females had much higher Cost Per Approved Conversion than Males.**
-**With the facts above, in this dataset, company xyz should target more potential customers with campaign A 
+* **With the facts above, in this dataset, company xyz should target more potential customers with campaign A 
 as it brought the most paying customers than the other two campaigns. Also, to get more customers with the least ad spend, 
 they should target more males and people in the 30-34 age range.**
