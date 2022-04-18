@@ -32,7 +32,33 @@ There were several rows where Cost Per Total Conversion had infinite values, and
 
 **Above, the CPM is highest amongst the 45-49 age group. Females in this dataset have a higher CPM than males.**
 
+<img width="521" alt="mean_ctr_age_gender" src="https://user-images.githubusercontent.com/90280839/163756073-b116ef6b-1666-403e-a0ac-a55dc3071673.png">
 
+**Above, the CTR is the highest amongst the 45-49 age group. Females in this dataset have a higher CTR than males. Like the heatmap, it shows that high CPM costs are correlated with a higher Click Through Rate for Company xyz's ad campaigns.**
+
+<img width="533" alt="CTR_campaign_id" src="https://user-images.githubusercontent.com/90280839/163756121-5479f5c3-4ae1-4972-9821-dde122b9e1c3.png">
+
+**Above, Campaign A has the highest Click Through Rate.**
+
+<img width="528" alt="CPTC_campaign_id_gender" src="https://user-images.githubusercontent.com/90280839/163756159-f1ac3d53-734f-4ca2-ad03-53c65e8e13aa.png">
+
+**Above, the Cost Per Total Conversion is lowest for campaign A. The Cost Per Total Conversion is highest for campaign A. The CPTC is higher for females than males. Therefore, it is more expensive to get females interested in company xyz's product.**
+
+<img width="514" alt="ad_spend_approved_conversion_corr" src="https://user-images.githubusercontent.com/90280839/163756188-5ce48b0a-f642-4d57-abd7-7462173c2c40.png">
+
+**Above, there is a moderate correlation (0.59) between Ad Spend and Approved Conversion for company xyz.**
+
+<img width="523" alt="cos_per_approved_conversion" src="https://user-images.githubusercontent.com/90280839/163756225-d65e3fc9-42ad-4cd9-b6f8-7aaced5a16ef.png">
+
+**Above, Campaign A had the lowest Cost Per Approved Conversion. Campaign C had the highest Cost Per Approved Conversion. Campaign A was the most effective at making consumers buy with the lowest cost.**
+
+<img width="507" alt="CPA_by_gender" src="https://user-images.githubusercontent.com/90280839/163756271-65ad567e-8497-4c14-9e63-cf800f7ac929.png">
+
+**Cost Per Approved Conversions are much higher amongst Females than Males.**
+
+<img width="507" alt="CPA_by_age" src="https://user-images.githubusercontent.com/90280839/163756309-00efa59d-ace2-46b4-aa64-cb4b547d1765.png">
+
+**Cost Per Approved Conversions is highest amongst ages 45 - 49. Cost Per Approved Conversions is lowest amongst ages 30-34.**
 
 ## Conclusions
 * **For company xyz, there is a very high correlation between ad spend, clicks and impressions.**
